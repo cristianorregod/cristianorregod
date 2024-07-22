@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Soy Cristian Orrego, Ingeniero en Sistemas y Desarrollador FullStack. Inicié en la programación como un hobby hace poco más de 4 años. Hoy estoy liderando un equipo de desarrollo en una empresa con mercado internacional.<br><br>Como proyecto personal comparto artículos de blog sobre programación. Cuando compartes tu conocimiento es cuando más aprendes y mi objetivo además de seguir mejorando mis habilidades es ayudar a otros con mis experiencias, guías y tutoriales.<br><br>- 🔭 Trabajando como Desarrollador FullStack en IDICO Colombia.<br>- 🌟 Emprendiendo como consultor TI en Agencia Momentum<br>- 📚 Actualmente estoy aprendiendo Python<br>- ⚡En mi tiempo libre me gusta estar con mi familia y jugar fútbol con amigos.</p>
+<p align="left">Soy Cristian Orrego, Ingeniero en Sistemas y Desarrollador FullStack. Inicié en la programación como un hobby hace poco más de 4 años. Hoy estoy liderando un equipo de desarrollo en una empresa con mercado internacional.<br><br>Como proyecto personal comparto artículos de blog sobre programación. Cuando compartes tu conocimiento es cuando más aprendes y mi objetivo además de seguir mejorando mis habilidades es ayudar a otros con mis experiencias, guías y tutoriales.<br><br>- 🔭 Trabajando como Desarrollador FullStack en IDICO Colombia.<br>- 🌟 Emprendiendo como consultor TI en Agencia Momentum<br>- 📚 Actualmente estoy aprendiendo Python y Power Automate<br>- ⚡En mi tiempo libre me gusta estar con mi familia y jugar fútbol con amigos.</p>
 
 ###
 
